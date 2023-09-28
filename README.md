@@ -22,9 +22,9 @@ Last challenge of Stage 6 - Rocketseat Explorer trail successfully completed! Th
 
 And let's keep on moving forward!
 
-[🔗 Clique aqui para acessar](https://ElizandraMonteiro.github.io/Desafio-GitFav-Stage-6/)
+[🔗 Clique aqui para acessar](https://ElizandraMonteiro.github.io/GitFav/)
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 - HTML
 - CSS
@@ -33,6 +33,6 @@ And let's keep on moving forward!
 
 Made with 💛 Elizandra Monteiro
 
-## 💛 Contato
+## 💛 Contact
 
 monteiroelizandra2017@gmail.com
